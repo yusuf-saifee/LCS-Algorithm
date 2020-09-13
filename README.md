@@ -18,3 +18,5 @@ This is Bottom-to-Top apprach unlike Memoization (Top-Bottom approach) as we sta
 Table will be filled from Top-Bottom but we do consider the approach as Bottom-Top becuase it starts solving problem from Bottom.
 
 Time Complexity:- O(m*n) when m is length of 1st String and n is the length of 2nd String.
+
+Note: We will be using dynamic programming approach to solve LCS problem.
